@@ -2,11 +2,12 @@
 ## PHP Final Project 
 
 ### PHP_Chatroom
-** The purpose of this project is to design and create a chat room and to integrate PHP and JavaScript that I have learned already. This project consists of 
-✓ User interface with HTML, CSS, 
-✓ JavaScript, 
-✓ Database, and 
-✓ PHP scripts.
+The purpose of this project is to design and create a chat room and to integrate PHP and JavaScript that I have learned already. 
+This project consists of 
++ User interface with HTML, CSS, 
++ JavaScript, 
++ Database, and 
++ PHP scripts.
 
 ### Joining the room
 The user joins the chatroom providing a username. Duplication verification is done using “AUTO_INCREMENT” to ensure that the user id is not already taken. Once the user is authenticated, the chat room functionality is made available, and a session is opened for that user.
